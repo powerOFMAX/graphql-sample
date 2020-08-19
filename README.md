@@ -13,7 +13,8 @@ The basic steps to set up backend:
 - Open the folder ```backend```
 - Run ```yarn install```
 - ```cp .env-example .env```
-- Run ```yarn  run dev```
+- Run ```yarn run dev```
+- If you want to see the Type Check you can use ```yarn run type-check:watch```
 
 You will have by default the server running on port 3100
 
